@@ -1,0 +1,2 @@
+- Added delete button
+- Added edit mode
